@@ -1,0 +1,29 @@
+/*styling accordion jquert UI */
+/*styling accordion jquert UI */
+
+.ui-accordion-header {
+    background: pink;
+    height: 30px;
+    border: 1px solid #bbffff;
+}
+
+.ui-accordion-header-active {
+    color: red;
+    outline-color: yellow;
+}
+
+.ui-accordion-content{
+    padding: 10px 20px;
+}
+
+a{
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+    margin: 4em 0;
+}
+
+#btn.active{
+    background: red;
+}
